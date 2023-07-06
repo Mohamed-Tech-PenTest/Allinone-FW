@@ -1,2 +1,2 @@
 # Allinone-FW
-The latest tool using python.
+The latest tool using Python.
